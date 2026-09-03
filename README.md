@@ -241,12 +241,18 @@ superstore-marketing-campaign-analysis/
 - Average Spend by Product Category
 - Filters: Education | Marital Status
 
+<img width="1345" height="771" alt="EXECUTIVE  DASHBOARD" src="https://github.com/user-attachments/assets/75fe934c-8c1b-48e0-ba74-44c885f0f456" />
+
+
 ### Marketing Dashboard
 - Total Spend vs Recency Scatter Plot — by Response Group
 - Average Total Spend by Income Band
 - Acceptance Rate by Income Band
 - Avg Spend by Category — Responders vs Non-Responders
 - Filters: Response Label | Family Size
+
+<img width="1327" height="775" alt="MARKETING DASHBOARD" src="https://github.com/user-attachments/assets/bd843798-4a9f-40a9-9608-746f185dc45c" />
+
 
 ---
 
